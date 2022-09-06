@@ -1,5 +1,5 @@
 # All About Data Science and ML Algorithms 
-> ### This github repo contains everything about machine learning algorithm in the framework of data science.
+> #### This github repo contains everything about machine learning algorithm in the framework of data science.
 
 
 
@@ -12,6 +12,16 @@
 - [ML-Unsupervised Learning][ml4]: This file contains the theory and application of all `unsupervised learning` models from machine learning algorithms.
 - [ML-Exercises][ml_ex]: This file contains sample applications of all machine learning algorithms.
 - [ML-Python Codes][ml_py]: In this file, there are applications of ML algorithms in the form of python file extension.
+
+### APPLICATION STAGES
+1. Examining and manipulating the dataset [x]
+2. Visualization [x]
+3. Modelling and testing the model [x]
+4. Conclusion [x]
+
+
+
+
 
 
 [sets]: https://github.com/mrkizmaz/DataScience/tree/main/DataSets
