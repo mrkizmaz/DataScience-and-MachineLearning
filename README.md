@@ -21,9 +21,6 @@
 
 
 
-
-
-
 [sets]: https://github.com/mrkizmaz/DataScience/tree/main/DataSets
 [ml1]: https://github.com/mrkizmaz/DataScience/tree/main/ML1-LinearRegression
 [ml2]: https://github.com/mrkizmaz/DataScience/tree/main/ML2-NonLinearRegression
