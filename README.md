@@ -1,5 +1,5 @@
 # All About Data Science and ML Algorithms 
-> ## This github repo contains everything about machine learning algorithm in the framework of data science.
+> ### This github repo contains everything about machine learning algorithm in the framework of data science.
 
 
 
