@@ -14,11 +14,10 @@
 - [ML-Python Codes][ml_py]: In this file, there are applications of ML algorithms in the form of python file extension.
 
 ### APPLICATION STAGES
-1. Examining and manipulating the dataset [x]
-2. Visualization [x]
-3. Modelling and testing the model [x]
-4. Conclusion [x]
-
+[x] 1. Examining and manipulating the dataset
+2. Visualization
+3. Modelling and testing the model
+4. Conclusion
 
 
 
