@@ -5,7 +5,7 @@
 
 ### CONTENTS
 - [Datasets][sets]: All data sets that I use in applications are in this file.
-    - Also, I store all the data sets I use in S3 service from Amazan Web Services (AWS) so that it doesn't take up too much disk space on my computer.
+    - Also, I store all the data sets I use in S3 service from Amazon Web Services (AWS) so that it doesn't take up too much disk space on my computer.
 - [ML-Linear Regression][ml1]: This file contains the theory and application of all `linear regression` models from machine learning algorithms.
 - [ML-NonLinear Regression][ml2]: This file contains the theory and application of all `non-linear regression` models from machine learning algorithms.
 - [ML-Classification][ml3]: This file contains the theory and application of all `classification` models from machine learning algorithms.
